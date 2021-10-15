@@ -1,5 +1,5 @@
 ### Status
-[![Build Status](https://app.travis-ci.com/RehArk/jest/builds.svg?branch=master)](https://app.travis-ci.com/RehArk/jest/builds)
+[![Build Status](https://app.travis-ci.com/RehArk/jest.svg?token=yStzUXFFi3VJRGkqwnzn&branch=master)](https://app.travis-ci.com/RehArk/jest/builds)
 
 ## Setup
 
