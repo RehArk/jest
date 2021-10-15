@@ -1,5 +1,5 @@
 ### Status
-[![Build Status](https://travis-ci.com/jeanbaptistevilain/tdd-jest.svg?branch=master)](https://travis-ci.com/jeanbaptistevilain/tdd-jest)
+[![Build Status](https://app.travis-ci.com/RehArk/jest/builds.svg?branch=master)](https://app.travis-ci.com/RehArk/jest/builds)
 
 ## Setup
 
