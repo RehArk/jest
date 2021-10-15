@@ -1,4 +1,6 @@
 // Implement the sum function here
+
+//sum function
 function sum(a, b)
 {
     if(isNaN(a) || isNaN(b) ) {
@@ -8,6 +10,7 @@ function sum(a, b)
     return a + b;
 }
 
+//multiply function
 function multiply(a, b)
 {
     if(isNaN(a) || isNaN(b) ) {
